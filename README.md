@@ -10,5 +10,4 @@ Example: ./create_trusted_files.ps1 -in exclusionlist.txt -out exclusions.xml
 The input file musst be a simple text file which contains one file to exclude per line.
 The output file musste be a xml file.
 
-
-
+Works for KSC10 SP3!
